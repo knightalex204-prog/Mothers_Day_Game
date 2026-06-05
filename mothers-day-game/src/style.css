@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  overflow:hidden;
+  font-family:Arial;
+  background:#ffd6e7;
+  text-align:center;
+}
+
+h2{
+  margin-top:20px;
+}
+
+#message{
+  margin-top:40vh;
+  font-size:40px;
+  color:#c2185b;
+}
+
+.heart{
+  position:absolute;
+  font-size:30px;
+  cursor:pointer;
+  animation:float 6s linear forwards;
+}
+
+@keyframes float{
+  from{transform:translateY(100vh);}
+  to{transform:translateY(-10vh);}
+}
+
