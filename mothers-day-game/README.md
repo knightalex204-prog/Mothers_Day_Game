@@ -1,54 +1,29 @@
-Project Title: Mothers Day Game
+## Project Title: Mothers Day Game
 
-
-
-Overview
-
-
-
+## Overview
 A simple web-based game where the user pops the hearts on screen to receive a mothers day message.
 
+## Live Demo
 
+You can view the project on CodePen: https://codepen.io/Alex-Knight-the-scripter/pen/MYjqwLw
 
-Features
-
-
+## Features
 
 * Interactive game where the user taps the screen to pop the hearts
 * Simple interface
 
-
-
-Tech Stack
-
-
+## Tech Stack
 
 * HTML
 * CSS
 * JavaScript
 
-
-
-How to run:
-
-
-
-Open index.html in any browser.
-
-
-
-What I learned
-
-
+## What I learnt
 
 * Developed familiarity with CSS and HTML
 * Practiced developing an interactive GUI
 
-
-
-Future Improvements:
-
-
+## Future Improvements:
 
 * Develop a points counter
 * Add boosts and obstacles to enhance game play and difficulty progression
